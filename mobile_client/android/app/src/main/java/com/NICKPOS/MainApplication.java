@@ -1,4 +1,4 @@
-package com.SEMAPOS;
+package com.NICKPOS;
 
 import android.app.Application;
 
