@@ -3,6 +3,8 @@ import PosStorage from '../database/PosStorage';
 import Communications from '../services/Communications';
 import Events from "react-native-simple-events";
 
+// And one there
+
 class Synchronization {
 	initialize( lastCustomerSync, lastProductSync, lastSalesSync){
 		console.log("Synchronization:initialize");
